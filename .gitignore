@@ -1,0 +1,15 @@
+.vs/
+.vscode/
+.idea/
+.debug/
+Debug/
+Release/
+test/
+cmake-build-debug/
+build/
+
+*.sln
+*.vcxproj
+*.vcxproj.*
+test.*
+*.test.*
